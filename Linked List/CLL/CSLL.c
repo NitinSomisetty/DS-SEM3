@@ -290,10 +290,11 @@ NODE display(NODE tail)
     printf("%d ", cur->data);
     return tail;
 }
-
+ 
 
 /*
-Look through: 
+! Look through: 
+
 Ordered Insertion
 reversing of a dll
 concatenation of dll
