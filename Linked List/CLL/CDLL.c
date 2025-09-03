@@ -1,3 +1,5 @@
+//! ADD CODES FOR HEAD POINTER IMPLEMENTAITION TOO!!
+
 #include<stdio.h>
 #include <stdlib.h>
 
