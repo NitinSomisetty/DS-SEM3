@@ -288,7 +288,8 @@ int find_key(int key, NODE* start)
 	}
 	return 0;
 }
-void list_reverse(NODE **pstart){
+void list_reverse(NODE **pstart)
+{
 	NODE *prev=NULL;
 	NODE *current;
         current=*pstart;
